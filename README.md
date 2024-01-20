@@ -13,7 +13,7 @@
 
 - we delve into the dynamic world of Android development through the lens of a passionate developer hailing from India. Discover the unique challenges, triumphs, and strategies employed by our featured speaker as they navigated the exciting realm of mobile application development. From honing technical skills to contributing to the developer community, this session offers valuable insights and lessons learned from a seasoned Android enthusiast. **JAVASCRIPT**
 
-- 📫 How to reach me **cloudpriyush02@gmail.com**
+- 📫 How to reach me **collegeinfopk02@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VKAc4xWBqfXf3kFOIfBmInfEHY0uKdUv/view?usp=sharing](https://drive.google.com/file/d/1VKAc4xWBqfXf3kFOIfBmInfEHY0uKdUv/view?usp=sharing)
 
