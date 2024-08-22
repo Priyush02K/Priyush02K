@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyush B. khobragade</h1>
-<h3 align="center">A passionate Android developer from India.</h3>
+<h3 align="center">A passionate Mobile App developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyush02k&label=Profile%20views&color=0e75b6&style=flat" alt="priyush02k" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI Image Generation**
 
-- 🌱 I’m currently learning **Dart and Dlutter**
+- 🌱 I’m currently learning **react and React react native**
 
 - we delve into the dynamic world of Android development through the lens of a passionate developer hailing from India. Discover the unique challenges, triumphs, and strategies employed by our featured speaker as they navigated the exciting realm of mobile application development. From honing technical skills to contributing to the developer community, this session offers valuable insights and lessons learned from a seasoned Android enthusiast. **JAVASCRIPT**
 
